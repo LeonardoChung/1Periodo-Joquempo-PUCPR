@@ -69,7 +69,7 @@ while opcao == 0:
         if novamente == 'S':
             break
         elif novamente == 'N':
-            #Defini a variavel = 1, para sair do loop principal
+            #Definir a variavel = 1, para sair do loop principal
             opcao = 1
             print('=' * 50)
             print('\n O placar final é:')
